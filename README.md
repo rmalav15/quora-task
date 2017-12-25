@@ -75,7 +75,7 @@ q2({w1,w2,w3..}) --> many-to-one-LSTM --
 The best validation accuracy I got is 0.745. (under constrained settings)
 
 
-## Fix for proble with sharing parameters of LSTMs 
+## Fix for problem with sharing parameters of LSTMs 
 
 If the following is used for sharing (Note: the same is mentioned in [torch documentation](https://github.com/torch/nn/blob/master/doc/module.md#sharemlps1s2sn) )<br/>
 ```
