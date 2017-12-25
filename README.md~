@@ -1,6 +1,6 @@
 # Quora-Question-Pairs Task
 
-## Usage
+## Info
 
 * **quoraDataPrePreprocessing.ipynb** - python Ipynb for data preprocessing
 * **quoraLSTM.ipynb** - iTorch Ipynb for training and validation of of deep network
