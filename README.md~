@@ -70,4 +70,6 @@ q1({w1,w2,w3...}) --> many-to-one-LSTM-- <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --concatenate -- {FC --BN - RELU or LeakyRELU--Drop}*3 -- FC(1) -- {sigmoid--softmaxLoss} or SVM <br/> 
 q2({w1,w2,w3..}) --> many-to-one-LSTM --
 <br/>
+<br/>
+<br/>
 The best validation accuracy I got is 0.745. (under constrained settings)
