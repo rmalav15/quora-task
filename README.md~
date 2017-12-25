@@ -77,12 +77,12 @@ The best validation accuracy I got is 0.745. (under constrained settings)
 
 ## Fix for problem with sharing parameters of LSTMs 
 
-If the following is used for sharing (Note: the same is mentioned in [torch documentation](https://github.com/torch/nn/blob/master/doc/module.md#sharemlps1s2sn) )<br/>
+If the following is used for sharing parameters of two LSTM (Note: the same is mentioned in [torch documentation](https://github.com/torch/nn/blob/master/doc/module.md#sharemlps1s2sn) )<br/>
 ```
 rnnSen2 = rnnSen1:clone('weight','bias');
 ```
 
-Here optim will give error in running adam or sgd, As it both network share same weights, but weights-gradient are different. the weights-gradient will be double of the available wiegths. <br/>
+Here optim will give error in running adam or sgd, As both networks share same weights, but weights-gradients are different. the weights-gradients will be double of the available wiegths. <br/>
 
 Instead use<br/>
 ```
