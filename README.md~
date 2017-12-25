@@ -17,6 +17,9 @@ opt = {
     loadModelPath = "models/quoraNetComp_batchSize_512_Lr_3.125e-05_learningRateDecay_0_optimizer_sgd_weightDecay_0.0005_stepDecayStep_5_epoch_20.t7",
     
     batchSize = 512, --IT should be less.. used to make it faster. good range 8-128 (2^i)
+    -- The problem with large batch sizes are “sharp” local minima which leads to overfitting. 
+    -- with large batch size the learning (Not ephoc time) will be slow
+    --Larger batch sizes result in faster progress in training, but don't always converge as fast. 
     seqLen = 55,  --Assumed maximum words in sentance
     wordVecSize = 50,
     lstmOutputSize = 400,  --dont change
