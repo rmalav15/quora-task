@@ -16,7 +16,7 @@ opt = {
     loadModel = 0,
     loadModelPath = "models/quoraNetComp_batchSize_512_Lr_3.125e-05_learningRateDecay_0_optimizer_sgd_weightDecay_0.0005_stepDecayStep_5_epoch_20.t7",
     
-    batchSize = 512, --IT should be less.. But to make it faster good range 8-128 (2^i)
+    batchSize = 512, --IT should be less.. used to make it faster. good range 8-128 (2^i)
     seqLen = 55,  --Assumed maximum words in sentance
     wordVecSize = 50,
     lstmOutputSize = 400,  --dont change
