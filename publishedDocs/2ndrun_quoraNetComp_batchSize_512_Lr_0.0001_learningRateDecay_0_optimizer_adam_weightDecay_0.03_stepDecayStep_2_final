@@ -1,0 +1,504 @@
+End of epoch 1 / 50 	 Training loss: 0.684266 	 Training accuracy: 0.564 	 Time Taken: 58.333	
+
+Validation after epoch 1  	 Validation loss: 0.677888 	 Validation accuracy: 0.605  	 Time Taken: 2.405	
+
+End of epoch 2 / 50 	 Training loss: 0.674399 	 Training accuracy: 0.591 	 Time Taken: 48.472	
+
+Validation after epoch 2  	 Validation loss: 0.678411 	 Validation accuracy: 0.605  	 Time Taken: 2.327	
+
+
+End of epoch 3 / 50 	 Training loss: 0.663155 	 Training accuracy: 0.604 	 Time Taken: 48.478	
+
+Validation after epoch 3  	 Validation loss: 0.682047 	 Validation accuracy: 0.634  	 Time Taken: 2.328	
+
+End of epoch 4 / 50 	 Training loss: 0.646711 	 Training accuracy: 0.625 	 Time Taken: 48.477	
+
+Validation after epoch 4  	 Validation loss: 0.684068 	 Validation accuracy: 0.530  	 Time Taken: 2.340	
+
+End of epoch 5 / 50 	 Training loss: 0.631903 	 Training accuracy: 0.658 	 Time Taken: 48.456	
+
+Validation after epoch 5  	 Validation loss: 0.701782 	 Validation accuracy: 0.458  	 Time Taken: 2.327	
+
+End of epoch 6 / 50 	 Training loss: 0.622787 	 Training accuracy: 0.665 	 Time Taken: 48.518	
+
+
+Validation after epoch 6  	 Validation loss: 0.694256 	 Validation accuracy: 0.496  	 Time Taken: 2.322	
+
+End of epoch 7 / 50 	 Training loss: 0.617545 	 Training accuracy: 0.666 	 Time Taken: 48.441	
+
+Validation after epoch 7  	 Validation loss: 0.699861 	 Validation accuracy: 0.484  	 Time Taken: 2.325	
+
+End of epoch 8 / 50 	 Training loss: 0.612132 	 Training accuracy: 0.670 	 Time Taken: 48.524	
+
+Validation after epoch 8  	 Validation loss: 0.696371 	 Validation accuracy: 0.497  	 Time Taken: 2.316	
+
+End of epoch 9 / 50 	 Training loss: 0.608568 	 Training accuracy: 0.673 	 Time Taken: 48.505	
+
+Validation after epoch 9  	 Validation loss: 0.683216 	 Validation accuracy: 0.530  	 Time Taken: 2.317	
+
+End of epoch 10 / 50 	 Training loss: 0.608284 	 Training accuracy: 0.675 	 Time Taken: 48.462	
+
+Validation after epoch 10  	 Validation loss: 0.681684 	 Validation accuracy: 0.536  	 Time Taken: 2.327	
+saving network at stage10...	
+
+End of epoch 11 / 50 	 Training loss: 0.604574 	 Training accuracy: 0.677 	 Time Taken: 49.088	
+
+Validation after epoch 11  	 Validation loss: 0.689022 	 Validation accuracy: 0.516  	 Time Taken: 2.388	
+
+End of epoch 12 / 50 	 Training loss: 0.604233 	 Training accuracy: 0.680 	 Time Taken: 49.132	
+
+Validation after epoch 12  	 Validation loss: 0.663767 	 Validation accuracy: 0.587  	 Time Taken: 2.383	
+
+End of epoch 13 / 50 	 Training loss: 0.602692 	 Training accuracy: 0.680 	 Time Taken: 49.094	
+
+Validation after epoch 13  	 Validation loss: 0.664515 	 Validation accuracy: 0.584  	 Time Taken: 2.377	
+
+End of epoch 14 / 50 	 Training loss: 0.602661 	 Training accuracy: 0.679 	 Time Taken: 48.984	
+
+Validation after epoch 14  	 Validation loss: 0.671043 	 Validation accuracy: 0.567  	 Time Taken: 2.373	
+
+End of epoch 15 / 50 	 Training loss: 0.601062 	 Training accuracy: 0.682 	 Time Taken: 48.963	
+
+Validation after epoch 15  	 Validation loss: 0.673438 	 Validation accuracy: 0.570  	 Time Taken: 2.361	
+
+End of epoch 16 / 50 	 Training loss: 0.599577 	 Training accuracy: 0.686 	 Time Taken: 48.963	
+
+Validation after epoch 16  	 Validation loss: 0.628168 	 Validation accuracy: 0.673  	 Time Taken: 2.366	
+
+End of epoch 17 / 50 	 Training loss: 0.600474 	 Training accuracy: 0.683 	 Time Taken: 48.965	
+
+Validation after epoch 17  	 Validation loss: 0.642785 	 Validation accuracy: 0.642  	 Time Taken: 2.381	
+
+End of epoch 18 / 50 	 Training loss: 0.600266 	 Training accuracy: 0.682 	 Time Taken: 48.950	
+
+Validation after epoch 18  	 Validation loss: 0.675045 	 Validation accuracy: 0.574  	 Time Taken: 2.378	
+
+End of epoch 19 / 50 	 Training loss: 0.600160 	 Training accuracy: 0.684 	 Time Taken: 48.976	
+
+Validation after epoch 19  	 Validation loss: 0.700187 	 Validation accuracy: 0.511  	 Time Taken: 2.407	
+
+End of epoch 20 / 50 	 Training loss: 0.598761 	 Training accuracy: 0.686 	 Time Taken: 48.901	
+
+Validation after epoch 20  	 Validation loss: 0.666292 	 Validation accuracy: 0.589  	 Time Taken: 2.373	
+saving network at stage20...	
+
+End of epoch 21 / 50 	 Training loss: 0.598022 	 Training accuracy: 0.683 	 Time Taken: 49.143	
+
+Validation after epoch 21  	 Validation loss: 0.655541 	 Validation accuracy: 0.628  	 Time Taken: 2.353	
+
+End of epoch 22 / 50 	 Training loss: 0.598149 	 Training accuracy: 0.687 	 Time Taken: 48.984	
+
+Validation after epoch 22  	 Validation loss: 0.647747 	 Validation accuracy: 0.645  	 Time Taken: 2.379	
+
+End of epoch 23 / 50 	 Training loss: 0.598341 	 Training accuracy: 0.687 	 Time Taken: 49.002	
+
+Validation after epoch 23  	 Validation loss: 0.620733 	 Validation accuracy: 0.675  	 Time Taken: 2.378	
+
+End of epoch 24 / 50 	 Training loss: 0.598127 	 Training accuracy: 0.687 	 Time Taken: 49.079	
+
+Validation after epoch 24  	 Validation loss: 0.642855 	 Validation accuracy: 0.646  	 Time Taken: 2.371	
+
+End of epoch 25 / 50 	 Training loss: 0.597684 	 Training accuracy: 0.685 	 Time Taken: 49.011	
+
+Validation after epoch 25  	 Validation loss: 0.624590 	 Validation accuracy: 0.678  	 Time Taken: 2.415	
+
+End of epoch 26 / 50 	 Training loss: 0.599173 	 Training accuracy: 0.687 	 Time Taken: 49.086	
+
+Validation after epoch 26  	 Validation loss: 0.672747 	 Validation accuracy: 0.575  	 Time Taken: 2.361	
+
+End of epoch 27 / 50 	 Training loss: 0.598399 	 Training accuracy: 0.686 	 Time Taken: 48.994	
+
+Validation after epoch 27  	 Validation loss: 0.657648 	 Validation accuracy: 0.607  	 Time Taken: 2.396	
+
+End of epoch 28 / 50 	 Training loss: 0.597414 	 Training accuracy: 0.688 	 Time Taken: 48.996	
+
+Validation after epoch 28  	 Validation loss: 0.639988 	 Validation accuracy: 0.643  	 Time Taken: 2.373	
+
+End of epoch 29 / 50 	 Training loss: 0.598607 	 Training accuracy: 0.686 	 Time Taken: 49.023	
+
+Validation after epoch 29  	 Validation loss: 0.634530 	 Validation accuracy: 0.650  	 Time Taken: 2.379	
+
+End of epoch 30 / 50 	 Training loss: 0.597455 	 Training accuracy: 0.685 	 Time Taken: 49.031	
+
+Validation after epoch 30  	 Validation loss: 0.677910 	 Validation accuracy: 0.559  	 Time Taken: 2.371	
+saving network at stage30...	
+
+End of epoch 31 / 50 	 Training loss: 0.597022 	 Training accuracy: 0.688 	 Time Taken: 49.179	
+
+Validation after epoch 31  	 Validation loss: 0.643951 	 Validation accuracy: 0.646  	 Time Taken: 2.377	
+
+End of epoch 32 / 50 	 Training loss: 0.596267 	 Training accuracy: 0.687 	 Time Taken: 49.053	
+
+Validation after epoch 32  	 Validation loss: 0.612610 	 Validation accuracy: 0.677  	 Time Taken: 2.397	
+
+End of epoch 33 / 50 	 Training loss: 0.597413 	 Training accuracy: 0.688 	 Time Taken: 49.087	
+
+Validation after epoch 33  	 Validation loss: 0.633131 	 Validation accuracy: 0.663  	 Time Taken: 2.392	
+
+End of epoch 34 / 50 	 Training loss: 0.594336 	 Training accuracy: 0.688 	 Time Taken: 49.022	
+
+Validation after epoch 34  	 Validation loss: 0.659031 	 Validation accuracy: 0.594  	 Time Taken: 2.386	
+
+End of epoch 35 / 50 	 Training loss: 0.595448 	 Training accuracy: 0.691 	 Time Taken: 49.075	
+
+
+Validation after epoch 35  	 Validation loss: 0.650969 	 Validation accuracy: 0.629  	 Time Taken: 2.380	
+
+End of epoch 36 / 50 	 Training loss: 0.594637 	 Training accuracy: 0.690 	 Time Taken: 49.025	
+
+Validation after epoch 36  	 Validation loss: 0.628728 	 Validation accuracy: 0.657  	 Time Taken: 2.368	
+
+End of epoch 37 / 50 	 Training loss: 0.595352 	 Training accuracy: 0.691 	 Time Taken: 49.105	
+
+Validation after epoch 37  	 Validation loss: 0.641254 	 Validation accuracy: 0.628  	 Time Taken: 2.387	
+
+End of epoch 38 / 50 	 Training loss: 0.594436 	 Training accuracy: 0.692 	 Time Taken: 48.945	
+
+Validation after epoch 38  	 Validation loss: 0.622256 	 Validation accuracy: 0.676  	 Time Taken: 2.386	
+
+End of epoch 39 / 50 	 Training loss: 0.594442 	 Training accuracy: 0.690 	 Time Taken: 48.965	
+
+Validation after epoch 39  	 Validation loss: 0.608815 	 Validation accuracy: 0.679  	 Time Taken: 2.394	
+
+End of epoch 40 / 50 	 Training loss: 0.594389 	 Training accuracy: 0.691 	 Time Taken: 49.093	
+
+Validation after epoch 40  	 Validation loss: 0.644250 	 Validation accuracy: 0.625  	 Time Taken: 2.394	
+saving network at stage40...	
+
+End of epoch 41 / 50 	 Training loss: 0.594303 	 Training accuracy: 0.691 	 Time Taken: 49.107	
+
+Validation after epoch 41  	 Validation loss: 0.660920 	 Validation accuracy: 0.586  	 Time Taken: 2.407	
+
+End of epoch 42 / 50 	 Training loss: 0.592709 	 Training accuracy: 0.692 	 Time Taken: 49.048	
+
+Validation after epoch 42  	 Validation loss: 0.631275 	 Validation accuracy: 0.647  	 Time Taken: 2.358	
+
+End of epoch 43 / 50 	 Training loss: 0.595109 	 Training accuracy: 0.692 	 Time Taken: 48.929	
+
+Validation after epoch 43  	 Validation loss: 0.609430 	 Validation accuracy: 0.676  	 Time Taken: 2.369	
+
+End of epoch 44 / 50 	 Training loss: 0.592665 	 Training accuracy: 0.693 	 Time Taken: 49.067	
+
+Validation after epoch 44  	 Validation loss: 0.617011 	 Validation accuracy: 0.666  	 Time Taken: 2.381	
+
+End of epoch 45 / 50 	 Training loss: 0.591868 	 Training accuracy: 0.693 	 Time Taken: 49.041	
+
+Validation after epoch 45  	 Validation loss: 0.627748 	 Validation accuracy: 0.649  	 Time Taken: 2.372	
+
+End of epoch 46 / 50 	 Training loss: 0.592074 	 Training accuracy: 0.693 	 Time Taken: 49.028	
+
+Validation after epoch 46  	 Validation loss: 0.642890 	 Validation accuracy: 0.620  	 Time Taken: 2.377	
+
+
+End of epoch 47 / 50 	 Training loss: 0.591743 	 Training accuracy: 0.694 	 Time Taken: 49.037	
+
+Validation after epoch 47  	 Validation loss: 0.634138 	 Validation accuracy: 0.636  	 Time Taken: 2.375	
+
+End of epoch 48 / 50 	 Training loss: 0.594130 	 Training accuracy: 0.693 	 Time Taken: 49.086	
+
+Validation after epoch 48  	 Validation loss: 0.609740 	 Validation accuracy: 0.678  	 Time Taken: 2.383	
+
+End of epoch 49 / 50 	 Training loss: 0.592307 	 Training accuracy: 0.694 	 Time Taken: 49.005	
+
+Validation after epoch 49  	 Validation loss: 0.614117 	 Validation accuracy: 0.668  	 Time Taken: 2.357	
+
+End of epoch 50 / 50 	 Training loss: 0.591767 	 Training accuracy: 0.696 	 Time Taken: 49.030	
+
+Validation after epoch 50  	 Validation loss: 0.628144 	 Validation accuracy: 0.646  	 Time Taken: 2.401	
+saving network at stage50...	
+
+Total Time Taken: 2.696	
+
+
+
+	
+trainConfusion: 	
+ConfusionMatrix:
+[[   20565    5774]   78.078% 	[class: 0]
+ [    7439    9742]]  56.702% 	[class: 1]
+ + average row correct: 67.390152812004% 
+ + average rowUcol correct (VOC measure): 51.661190390587% 
+ + global correct: 69.639246323529%
+{
+  _mat_flat : LongTensor - size: 4
+  valids : FloatTensor - size: 2
+  mat : LongTensor - size: 2x2
+  averageUnionValid : 0.51661190390587
+  _targ_idx : LongTensor - size: 1
+  averageValid : 0.67390152812004
+  classes : 
+    {
+      1 : 0
+      2 : 1
+    }
+  _prediction : FloatTensor - size: 2
+  _pred_idx : LongTensor - size: 1
+  nclasses : 2
+  _max : FloatTensor - size: 1
+  _target : FloatTensor - size: 2
+  unionvalids : FloatTensor - size: 2
+  totalValid : 0.69639246323529
+}
+
+
+
+	
+valConfusion: 	
+ConfusionMatrix:
+[[    2993    2274]   56.826% 	[class: 0]
+ [     808    2629]]  76.491% 	[class: 1]
+ + average row correct: 66.658321022987% 
+ + average rowUcol correct (VOC measure): 47.650729119778% 
+ + global correct: 64.590992647059%
+{
+  _mat_flat : LongTensor - size: 4
+  valids : FloatTensor - size: 2
+  mat : LongTensor - size: 2x2
+  averageUnionValid : 0.47650729119778
+  _targ_idx : LongTensor - size: 1
+  averageValid : 0.66658321022987
+  classes : 
+    {
+      1 : 0
+      2 : 1
+    }
+  _prediction : FloatTensor - size: 2
+  _pred_idx : LongTensor - size: 1
+  nclasses : 2
+  _max : FloatTensor - size: 1
+  _target : FloatTensor - size: 2
+  
+
+unionvalids : FloatTensor - size: 2
+  totalValid : 0.64590992647059
+}
+
+
+
+	
+trainingStats.trainLoss: 	
+{
+  1 : 0.68426644802094
+  2 : 0.67439860526253
+  3 : 0.66315509922364
+  4 : 0.64671071487315
+  5 : 0.63190276202034
+  6 : 0.62278662709629
+  7 : 0.61754482143066
+  8 : 0.61213230595869
+  9 : 0.60856750782798
+  10 : 0.6082837862127
+  11 : 0.60457433812758
+  12 : 0.6042329044903
+  13 : 0.60269166581771
+  14 : 0.60266065878027
+  15 : 0.6010624478845
+  16 : 0.59957663031185
+  17 : 0.60047414653441
+  18 : 0.60026639209074
+  19 : 0.6001598442302
+  20 : 0.59876113498912
+  21 : 0.59802223584231
+  22 : 0.59814878071056
+  23 : 0.59834148252712
+  24 : 0.59812701589921
+  25 : 0.5976843826911
+  26 : 0.59917346589706
+  27 : 0.59839881027446
+  28 : 0.59741393047221
+  29 : 0.59860724631478
+  30 : 0.59745466498768
+  31 : 0.59702215685564
+  32 : 0.59626656770706
+  33 : 0.59741283024059
+  34 : 0.59433646763072
+  35 : 0.5954481826109
+  36 : 0.59463693534627
+  37 : 0.59535175561905
+  38 : 0.59443551512326
+  39 : 0.59444244328667
+  40 : 0.5943888762418
+  41 : 0.59430335900363
+  42 : 0.59270928747514
+  43 : 0.59510866263333
+  44 : 0.59266540583442
+  45 : 0.59186788026024
+  46 : 0.59207378064885
+  47 : 0.59174286758198
+  48 : 0.59412959393333
+  49 : 0.5923067352351
+  50 : 0.59176695837694
+}
+
+
+
+	
+trainingStats.trainAccuracy: 	
+{
+  1 : 0.56449908088235
+  2 : 0.59073988970588
+  3 : 0.60381433823529
+  4 : 0.62486213235294
+  5 : 0.65778952205882
+  6 : 0.66505055147059
+  7 : 0.666015625
+  8 : 0.67022058823529
+  9 : 0.67311580882353
+  10 : 0.67467830882353
+  11 : 0.67704503676471
+  12 : 0.68012408088235
+  13 : 0.67998621323529
+  14 : 0.67904411764706
+  15 : 0.68189338235294
+  16 : 0.68556985294118
+  17 : 0.68315716911765
+  18 : 0.68166360294118
+  19 : 0.68448988970588
+  20 : 0.68586856617647
+  21 : 0.68322610294118
+  22 : 0.68713235294118
+  23 : 0.68729319852941
+  24 : 0.68694852941176
+  25 : 0.68522518382353
+  26 : 0.68674172794118
+  27 : 0.68589154411765
+  28 : 0.68784466911765
+  29 : 0.68600643382353
+  30 : 0.68511029411765
+  31 : 0.68814338235294
+  32 : 0.68733915441176
+  33 : 0.68848805147059
+  34 : 0.687890625
+  35 : 0.69055606617647
+  36 : 0.69030330882353
+  37 : 0.69085477941176
+  38 : 0.69200367647059
+  39 : 0.69044117647059
+  40 : 0.69103860294118
+  41 : 0.69085477941176
+  42 : 0.69209558823529
+  43 : 0.69177389705882
+  44 : 0.69255514705882
+  45 : 0.693359375
+  46 : 0.69292279411765
+  47 : 0.69388786764706
+  48 : 0.69250919117647
+  49 : 0.69439338235294
+  50 : 0.69639246323529
+}
+
+
+
+	
+trainingStats.valLoss: 	
+{
+  1 : 0.67788831276052
+  2 : 0.67841135403689
+  3 : 0.6820468026049
+  4 : 0.68406812934314
+  5 : 0.70178234226563
+  6 : 0.69425602169598
+
+  7 : 0.69986143532921
+  8 : 0.69637063671561
+  9 : 0.68321585304597
+  10 : 0.68168428715538
+  11 : 0.68902185033349
+  12 : 0.66376741142834
+  13 : 0.66451470641529
+  14 : 0.67104279644349
+  15 : 0.67343780924292
+  16 : 0.62816810958526
+  17 : 0.64278499869739
+  18 : 0.67504462775062
+  19 : 0.70018736053916
+  20 : 0.6662922501564
+  21 : 0.6555411605274
+  22 : 0.64774701174568
+  23 : 0.62073257390191
+  24 : 0.64285537425209
+  25 : 0.62459044246113
+  26 : 0.6727470685454
+  27 : 0.65764771489536
+  28 : 0.63998796308742
+  29 : 0.63453022171469
+  30 : 0.67790959161871
+  31 : 0.64395096722771
+  32 : 0.61260980017045
+  33 : 0.63313099917244
+  34 : 0.65903051460491
+  35 : 0.65096894432517
+  36 : 0.62872788485359
+  37 : 0.641253527473
+  38 : 0.62225613173317
+  39 : 0.60881533692865
+  40 : 0.64425048056771
+  41 : 0.66092006949817
+  42 : 0.631274794831
+  43 : 0.60943028506111
+  44 : 0.61701078274671
+  45 : 0.6277481562951
+  46 : 0.64289014830309
+  47 : 0.6341376970796
+  48 : 0.60973987859838
+  49 : 0.61411682998433
+  50 : 0.62814431330737
+}
+
+
+
+	
+trainingStats.valAccuracy: 	
+{
+  1 : 0.60512408088235
+  2 : 0.60512408088235
+  3 : 0.63384650735294
+  4 : 0.53021599264706
+  5 : 0.45772058823529
+  6 : 0.49632352941176
+  7 : 0.484375
+  8 : 0.49689797794118
+  9 : 0.52964154411765
+  10 : 0.53550091911765
+  11 : 0.515625
+  12 : 0.58685661764706
+  13 : 0.58421415441176
+  14 : 0.56709558823529
+  15 : 0.5703125
+  16 : 0.67336856617647
+  17 : 0.64246323529412
+  18 : 0.57387408088235
+  19 : 0.51056985294118
+  20 : 0.58949908088235
+  21 : 0.62752757352941
+  22 : 0.64499080882353
+  23 : 0.67474724264706
+  24 : 0.64602481617647
+  25 : 0.67761948529412
+  26 : 0.57490808823529
+  27 : 0.60650275735294
+  28 : 0.64338235294118
+  29 : 0.65027573529412
+  30 : 0.55905330882353
+  31 : 0.64556525735294
+  32 : 0.67704503676471
+  33 : 0.66314338235294
+  34 : 0.59420955882353
+  35 : 0.62867647058824
+  36 : 0.65682444852941
+  37 : 0.62787224264706
+  38 : 0.67601102941176
+  39 : 0.67911305147059
+  40 : 0.62454044117647
+  41 : 0.58605238970588
+  42 : 0.64694393382353
+  43 : 0.67589613970588
+  44 : 0.66590073529412
+  45 : 0.64947150735294
+  46 : 0.61960018382353
+  47 : 0.63602941176471
+  48 : 0.677734375
+  49 : 0.66842830882353
+  50 : 0.64590992647059
+}
+
